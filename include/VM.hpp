@@ -5,6 +5,7 @@
 #include "Memory.hpp"
 #include "Audio.hpp"
 #include "CPU.hpp"
+#include <string>
 
 class VM {
     public:
